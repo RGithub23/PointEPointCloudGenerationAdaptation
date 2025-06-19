@@ -15,7 +15,7 @@ For example if you prompt "Apple" you will get a 3D visual point cloud of an App
 
 ## Contents
 
-- `PointEPointCloudGenerationAdaptation.ipynb`: Main Jupyter notebook
+- `PointEPointCloudGenerationAdaptation.ipynb`: Jupyter notebook
 
 ---
 
