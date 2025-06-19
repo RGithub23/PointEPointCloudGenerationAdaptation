@@ -1,5 +1,5 @@
 
-## Point-E Point Cloud Generation Adaptation
+## Point-E - Point Cloud Generation Adaptation
 
 This project is an adapatation of OpenAI's Point-E model for generating point clouds from images or text prompts. The notebook includes preprocessing, generation steps, and basic visualization.
 
