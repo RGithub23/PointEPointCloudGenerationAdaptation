@@ -8,7 +8,8 @@ This project is an adapatation of OpenAI's Point-E model for generating point cl
 
 ## 🚀 Try it out in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/RGithub23/PointEPointCloudGenerationAdaptation/blob/main/PointEPointCloudGenerationAdaptation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/PointEPointCloudGenerationAdaptation/blob/main/PointEPointCloudGenerationAdaptation.ipynb)
+
 
 ---
 
