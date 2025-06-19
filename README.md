@@ -1,25 +1,24 @@
-# PointEPointCloudGenerationAdaptation
 
-# 🟢 Point-E Point Cloud Generation Adaptation
+## Point-E Point Cloud Generation Adaptation
 
 This project is an adapatation of OpenAI's Point-E model for generating point clouds from images or text prompts. The notebook includes preprocessing, generation steps, and basic visualization.
 
 ---
 
-## 🚀 Try it out in Google Colab
+## Try it out in Google Colab as primarily built here!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/PointEPointCloudGenerationAdaptation/blob/main/PointEPointCloudGenerationAdaptation.ipynb)
 
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `PointEPointCloudGenerationAdaptation.ipynb`: Main Jupyter notebook
 
 ---
 
-## 🧪 Features
+## Features
 
 - Prompt your own Object you want generated
 - Generate and visualize 3D point clouds
@@ -28,7 +27,7 @@ This project is an adapatation of OpenAI's Point-E model for generating point cl
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 This Colab notebook automatically installs all necessary dependencies, including:
 torch
