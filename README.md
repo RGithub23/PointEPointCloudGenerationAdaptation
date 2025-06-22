@@ -9,7 +9,7 @@ Adaptation allows for centralized further plot looping through all the outputs a
 
 ## Try it out in Google Colab as primarily built here!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/PointE-PointCloud-Generation-Adaptation/blob/main/PointEPointCloudGenerationAdaptation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RGithub23/PointE-PointCloud-Generation-Adaptation/blob/main/PointE-PointCloud-Generation-Adaptation.ipynb)
 
 
 ---
