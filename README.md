@@ -18,7 +18,7 @@ https://colab.research.google.com/github/RGithub23/PointEPointCloudGenerationAda
 
 ## Contents
 
-- `PointEPointCloudGenerationAdaptation.ipynb`: Jupyter notebook
+- `PointE_PointCloud_Generation_Adaptation.ipynb`: Jupyter notebook
 
 ---
 
