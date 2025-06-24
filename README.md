@@ -45,4 +45,4 @@ point-e @ git+https://github.com/openai/point-e.git
 ## 📝 License
 
 MIT License or your preferred license.
-Attirbution to OpenAI for access to their open source model. 
+Attribution to OpenAI for access to their open source model. 
