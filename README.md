@@ -1,9 +1,9 @@
 
 ## Point-E - Point Cloud Generation Adaptation
 
-This project is an adapatation of OpenAI's open source Point-E model for generating point clouds from images or text prompts. The notebook includes preprocessing, generation steps, and basic visualization.
+**This project is an adapatation of OpenAI's open source Point-E model for generating point clouds from images or text prompts. The notebook includes preprocessing, generation steps, and basic visualization.
 For example if you prompt "An Apple" you will get a 3D visual point cloud interpretation of an Apple!
-The Adaptation allows for centralized further plot looping through all the outputs and inspecting if the model interpreted the prompt/image well and organizing the XYZ coordinates and optional RGB colors for 3D plotting and further customizing the size, color scale, transparency and lighting. In addition to exporting as an obj to get a solid respresentation of the plot generated!
+The Adaptation allows for centralized further plot looping through all the outputs and inspecting if the model interpreted the prompt/image well and organizing the XYZ coordinates and optional RGB colors for 3D plotting and further customizing the size, color scale, transparency and lighting. In addition to exporting as an obj to get a solid respresentation of the plot generated!**
 ---
 Example Prompt:
 ![image](https://github.com/user-attachments/assets/326d0942-3646-4b46-99d7-acdb54bf9e73)
